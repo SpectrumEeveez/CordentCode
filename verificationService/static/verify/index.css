@@ -1,0 +1,36 @@
+body {
+	font-family: 'Roboto', sans-serif;
+
+	text-align: center;
+
+	background-color: #ECF0F1;
+}
+
+a {
+	text-decoration: none;
+}
+
+#recaptchaRender {
+	margin: auto;
+
+	display: inline-block;
+}
+
+#box {
+	background-color: #D0D0D0;
+
+	margin: auto;
+
+	margin-top: 15vh;
+
+	padding-top: 5vh;
+	padding-bottom: 5vh;
+
+	width: 50vw;
+	height: 20vh;
+}
+
+#message {
+	text-align: center;
+	margin: auto;
+}

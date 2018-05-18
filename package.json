@@ -1,0 +1,46 @@
+{
+  "name": "cordent",
+  "version": "1.0.0",
+  "description": "Protect your Discord with the ultimate global ban network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ethanent/cordent.git"
+  },
+  "keywords": [
+    "discord",
+    "cordent",
+    "bans",
+    "global-bans",
+    "security",
+    "anti-bot",
+    "bots",
+    "bot",
+    "raid",
+    "safety",
+    "secure",
+    "ban",
+    "ban-network",
+    "network",
+    "global"
+  ],
+  "author": "Ethan Davis",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ethanent/cordent/issues"
+  },
+  "homepage": "https://github.com/ethanent/cordent#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "grecaptcha": "^1.0.0",
+    "moment": "^2.21.0",
+    "poky": "^1.0.1",
+    "qs": "^6.5.1",
+    "vaxic": "^2.3.1"
+  },
+  "private": true
+}

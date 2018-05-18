@@ -1,0 +1,22 @@
+{
+	"auth": {
+		"token": "NDM5MjU3MTE1NDI5ODMwNjg2.DcQwPw.RFLPdf-ocDxNbYmI2_gKmzBYZeg"
+	},
+	"coreServer": "427214298553647122",
+	"spamGuard": {
+		"time": 8000,
+		"threshold": 5
+	},
+	"verificationService": {
+		"host": "127.0.0.1",
+		"port": 8080,
+		"recaptcha": {
+			"siteKey": "6Ldl31UUAAAAAOD5yf9O_KLoBGwNNdQuUrbQbcGj",
+			"secretKey": "6Ldl31UUAAAAAEiGlUltlEl8emnii_3qxb_QkF2c"
+		}
+	},
+	"reportReasons": ["spam", "alt", "hate", "unlawful"],
+	"messages": {
+		"welcome": ["WOOH!", "You did it!", "We made it!"]
+	}
+}
